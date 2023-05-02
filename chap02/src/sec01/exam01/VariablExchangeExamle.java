@@ -7,10 +7,10 @@ public class VariablExchangeExamle {
 		int y = 5;
 		System.out.println("x:" + x + ", y:" + y);
 		
-		int x = 1;
+		
 		int temp = x;
-		x = y;
-		y = temp;
+		 x = y;
+		 y = temp;
 		System.out.println("x:" + x + ", y:" + y);
 	}
 
