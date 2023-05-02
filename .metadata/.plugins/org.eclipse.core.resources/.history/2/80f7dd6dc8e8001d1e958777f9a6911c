@@ -4,7 +4,7 @@ public class PrimitiveAndStringConverionExample {
 
 	public static void main(String[] args) {
 		//int value1 = Integer.parseInt("10");
-		int value1 = Integer.parseInt("10");
+		int value1 = Integer.parseInt("a");
 		double value2 = Double.parseDouble("3.14");
 		boolean value3 = Boolean.parseBoolean("true");
 		
