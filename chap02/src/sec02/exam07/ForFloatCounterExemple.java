@@ -6,7 +6,8 @@ public class ForFloatCounterExemple {
 		//for(초기값; 최종값; 증가값) { }
 		//for(조건문) 은 소수점에 약하다.
 		//float은 수치계산용으로 정확하지않아 안쓴다.
-	
+	int a = 1;
+	System.out.println(a);
 	}
 	
 }
