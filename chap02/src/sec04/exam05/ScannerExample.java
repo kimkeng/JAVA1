@@ -1,7 +1,7 @@
 package sec04.exam05;
 
 import java.util.Scanner;
-//Ctrl + Shift + O 가 import를 만들어 주는데 기본으로 탑제되어 있다.
+//Ctrl + Shift + O 가 import를 만들어 준다.
 
 public class ScannerExample {
 
