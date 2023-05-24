@@ -8,7 +8,7 @@ public class test2 {
 		for(int i=0; i<array.length;i++) {
 			if(max<array[i]) 
 				max = array[i];
-		}
+		}//asdasdasd
 			System.out.println(max);
 		
 	}
