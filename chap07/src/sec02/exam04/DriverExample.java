@@ -8,7 +8,8 @@ public class DriverExample {
 		Texi texi = new Texi();
 		
 		driver.drive(bus); //매개변수 바꾸기
-		Vehicle vehicle = bus;  //이 뜻 (자동 타입 변환)
+		
+//		Vehicle vehicle = bus;  //이 뜻 (자동 타입 변환)
 	}
 
 }
